@@ -1,5 +1,5 @@
-## Pixel Shader with static texture
-![image](https://github.com/user-attachments/assets/defadadf-df25-4f67-bfdd-3be16004ece3)
+## Pixel Shader + Chromatic Aberration 
+![image](https://github.com/user-attachments/assets/516bbddf-30e8-4ab2-bd68-7485b8340a71)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
